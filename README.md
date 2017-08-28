@@ -1,4 +1,4 @@
-# Cor IT Puppet Environments #
+# Core IT Puppet Environments #
 
 ## Environments ##
 
